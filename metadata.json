@@ -1,0 +1,10 @@
+{
+  "name": "Remix: VIDEO_AI OS: 智能影音製片廠",
+  "description": "一站式智能影音生產大腦，提供從 AI 腳本生成、分鏡視覺化到自動化剪輯的全工作流，助力創作者一鍵生成爆款影音。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Video Production",
+    "Smart Editing",
+    "Subtitles Generation"
+  ]
+}
